@@ -11,18 +11,12 @@
   --bg: url(--spice-wallpaper);
 }
 /*
- Set the wallpaper to the one matching your color scheme
- Source: https://wallpapercave.com/wp/wp5003466.jpg
- Purple: https://github.com/Motschen/Retroblur/blob/main/assets/background_purple.jpg?raw=true
- Red: https://github.com/Motschen/Retroblur/blob/main/assets/background_red.jpg?raw=true
- Green: https://github.com/Motschen/Retroblur/blob/main/assets/background_green.jpg?raw=true
- Yellow: https://github.com/Motschen/Retroblur/blob/main/assets/background_yellow.jpg?raw=true
- Blue: https://github.com/Motschen/Retroblur/blob/main/assets/background_blue.jpg?raw=true
- Beach (Blue): https://wallpapercave.com/wp/wp5922621.jpg
- Forest (Green): https://i.imgur.com/hnpaDeR.jpg
+ Tła
+ Source: https://cdn.discordapp.com/attachments/1031595316652281956/1048643181035655238/tlo.jpg
+ Fioletowy: https://cdn.discordapp.com/attachments/1031595316652281956/1048643181035655238/tlo.jpg
  */
 body {
-    background-image: url("https://github.com/Motschen/Retroblur/blob/main/assets/background_purple.jpg?raw=true") !important;
+    background-image: url("https://cdn.discordapp.com/attachments/1031595316652281956/1048643181035655238/tlo.jpg") !important;
     background-repeat: no-repeat;
     background-size: 100%;
 }
